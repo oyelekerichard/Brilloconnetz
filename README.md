@@ -6,3 +6,6 @@ each file is named according to the solution profered for each question and are 
 
 classes in the question1 and question2 packages are standalone files which can be run all alone as accepts inputs to give corresponding answers to each questionss
 
+HOT TO RUN:
+
+EACH CLASSES IN THE PACKAGES question1 and question2 are standlone classes whcih can be run independently 
