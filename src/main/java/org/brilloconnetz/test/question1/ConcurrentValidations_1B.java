@@ -8,7 +8,7 @@ import java.util.concurrent.CompletableFuture;
 
 
 @RequiredArgsConstructor
-public class ConcurrentValidations {
+public class ConcurrentValidations_1B {
     public static void main(String[] args) {
 
 

@@ -1,6 +1,5 @@
 package org.brilloconnetz.test.question1;
 
-import io.jsonwebtoken.SignatureAlgorithm;
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.brilloconnetz.test.config.BrilloConfig;
@@ -15,7 +14,7 @@ import org.brilloconnetz.test.utils.Utility;
 
 @RequiredArgsConstructor
 @AllArgsConstructor
-public class GenerateSignedJWTToken {
+public class GenerateSignedJWTToken_1C {
 
     private static final BrilloConfig brilloConfig = null;
     private static final Utility util = null;

@@ -1,28 +1,19 @@
 package org.brilloconnetz.test.question1;
 
 import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.Jwts;
-import jdk.jshell.execution.Util;
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.brilloconnetz.test.config.BrilloConfig;
 import org.brilloconnetz.test.model.Token;
 import org.brilloconnetz.test.model.User;
 import org.brilloconnetz.test.utils.Utility;
-import org.springframework.http.HttpStatus;
 
-import java.util.List;
-import java.util.Objects;
-import java.util.Optional;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-import static java.lang.Boolean.FALSE;
-import static java.lang.Boolean.TRUE;
-
 @RequiredArgsConstructor
 @AllArgsConstructor
-public class ValidateToken {
+public class ValidateToken_1D {
 
     private static final Utility utils = null;
     private static final BrilloConfig brilloConfig = null;

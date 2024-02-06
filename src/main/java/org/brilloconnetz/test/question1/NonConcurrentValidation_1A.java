@@ -2,14 +2,9 @@ package org.brilloconnetz.test.question1;
 
 import org.brilloconnetz.test.utils.Utility;
 
-import java.util.Map;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
-public class NonConcurrentValidation {
+public class NonConcurrentValidation_1A {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
