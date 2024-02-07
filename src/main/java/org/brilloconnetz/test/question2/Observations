@@ -1,0 +1,8 @@
+1. The non-concurrent version of the program is simpler and easier to understand as it executes sequentially. It performs all the tasks in a single thread.
+
+2. The concurrent version of the program allows multiple users to eat pancakes simultaneously, making it more efficient in terms of time. It performs all tasks on multiple threads.
+
+3. Both the concurrent and nonconcurrent approach gives the same output and achieve the desired result, but the concurrent version improves the efficiency by parallelizing the user eating process.
+
+4. Using the concurrent approach, when the number of pancakes and users is small, there might not be significant performance benefits. But, iif we have larger-scale scenarios, where more users and pancakes are involved, concurrent execution can greatly enhance performance.
+
